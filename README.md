@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E40C9,100:00D4FF&height=200&section=header&text=Yogesh%20Kamisetty&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20CSE%20%7C%20Full%20Stack%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Yogesh%20Kamisetty&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20%2F%20ML%20Enthusiast%20%E2%80%A2%20B.Tech%20CSE%20%40%20LBRCE&descAlignY=62&descSize=16&animation=fadeIn&stroke=6E40C9&strokeWidth=2" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1000&color=6E40C9&center=true&vCenter=true&width=700&lines=Building+Full-Stack+Web+Applications+%F0%9F%92%BB;Exploring+Multi-Agent+AI+Systems+%F0%9F%A4%96;Turning+Ideas+Into+Working+Products+%F0%9F%9A%80;Open+to+Internships+%26+Collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=700&lines=const+yogesh+%3D+new+Developer(%22Full+Stack%22%2C+%22AI%22)%3B;Building+REST+APIs+%26+Web+Apps+%F0%9F%92%BB;Exploring+Multi-Agent+AI+Systems+%F0%9F%A4%96;TypeScript+%7C+Node.js+%7C+MySQL+%7C+React+%7C+Python;12+repos+%E2%80%A2+3+achievements+%E2%80%A2+Always+learning+%F0%9F%9A%80" />
 
 </div>
 
@@ -14,213 +14,254 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-kamisetty1834/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty)
-[![Profile Views](https://komarev.com/ghpvc/?username=yogeshkamisetty&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS)](https://github.com/yogeshkamisetty)
+[![LinkedIn](https://img.shields.io/badge/%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-kamisetty1834/)
+[![GitHub](https://img.shields.io/badge/%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty)
+[![Profile Views](https://komarev.com/ghpvc/?username=yogeshkamisetty&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS&abbreviated=true)](https://github.com/yogeshkamisetty)
+[![Repos](https://img.shields.io/badge/Repositories-12-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty?tab=repositories)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `> whoami`
 
-I'm **Yogesh Kamisetty**, a B.Tech Computer Science student at **LBRCE, Vijayawada**, passionate about building web applications and exploring AI-powered systems.
-
-- 🎓 Pursuing **B.Tech in Computer Science & Engineering** @ LBRCE
-- 🌱 Currently deep-diving into **GenAI, Multi-Agent Systems & REST API Design**
-- 🏗️ I build things that span **Frontend → Backend → Database → AI**
-- 💡 Interested in applying AI to real-world domains — analytics, automation, intelligence
-- 📍 Based in **Vijayawada, Andhra Pradesh, India**
-- 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/yogesh-kamisetty1834/)
+```yaml
+name        : Yogesh Kamisetty
+role        : Full Stack Developer  |  AI Enthusiast
+degree      : B.Tech — Computer Science & Engineering
+college     : LBRCE, Vijayawada, Andhra Pradesh
+focus       : [Web Apps, REST APIs, GenAI, Multi-Agent Systems]
+status      : Open to Internships & Collaboration 🤝
+motto       : "Ship it. Break it. Fix it. Repeat."
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🏆 GitHub Achievements
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
+
+| 🏹 Quickdraw | 🦈 Pull Shark | 🎯 YOLO |
+|:---:|:---:|:---:|
+| Closed an issue or pull request within 5 minutes of opening | Opened a pull request that has been merged | Merged a pull request without a review |
+
+</div>
+
+---
+
+## ⚡ Tech Arsenal
+
+<div align="center">
 
 ### 🌐 Frontend
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-
-</div>
-</td>
-<td valign="top" width="33%">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark&perline=5" />
 
 ### ⚙️ Backend & Database
-<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql&theme=dark&perline=5" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+### 🤖 AI & Tools
+<img src="https://skillicons.dev/icons?i=python,vite,git,github,vscode&theme=dark&perline=5" />
 
 </div>
-</td>
-<td valign="top" width="33%">
 
-### 🤖 AI & Dev Tools
+<br/>
+
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Runtime & Framework** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) |
+| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
+| **AI / Cloud** | ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white) ![AI Studio](https://img.shields.io/badge/AI_Studio-34A853?style=flat&logo=google&logoColor=white) |
+| **DevOps & Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
 
 </div>
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔨 Online Auction System
-> *A fully functional multi-page auction marketplace — buy, sell & bid on products*
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/Online-Auction-System)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Stars](https://img.shields.io/github/stars/yogeshkamisetty/Online-Auction-System?style=flat-square&color=yellow)
-
-**What it does:**  
-A complete online auction platform where users can list products for sale and participate in auctions. Built with a multi-page architecture covering the full user journey.
-
-**Pages & Features:**
-- `index.html` — Landing page with featured auction items
-- `register.html` / `login.html` — User auth flow
-- `browse.html` — Browse all active auction listings
-- `product.html` — Individual item detail & bidding page
-- `sell.html` — Seller listing creation form
-- `dashboard.html` — User auction dashboard
-- `profile.html` — User profile management
-
-```
-Stack: HTML5 (52%) · CSS3 (32%) · JavaScript (16%)
-Architecture: Multi-page SPA-style with shared JS & CSS modules
-```
-
----
-
-### 🤖 AI Multi-Agent Application (Google Gemini)
-> *A multi-agent AI app built on Google AI Studio — powered by Gemini*
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/Ai-Agent-by-Google)
-[![Live Demo](https://img.shields.io/badge/AI%20Studio%20Demo-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.studio/apps/drive/1fKLHHPWL3F8JAXRGytOvdEB-J_2eghPR)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**What it does:**  
-A production-ready multi-agent AI application generated via Google AI Studio and powered by the Gemini API. Features a clean React + TypeScript frontend with a structured services/components architecture.
-
-**Architecture Highlights:**
-- `components/` — Modular React UI components
-- `services/` — Gemini API integration & agent orchestration
-- `App.tsx` / `types.ts` — Typed state management
-- `vite.config.ts` — Modern Vite build pipeline
-
-```
-Stack: TypeScript (95%) · HTML (5%)
-Runtime: Node.js · Vite · React
-AI: Google Gemini API (via GEMINI_API_KEY)
-```
-
----
-
-### 🎓 Student Registration System (Full-Stack)
-> *End-to-end 3-tier web application: HTML → Node.js/Express → MySQL*
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/student-registration)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**What it does:**  
-A real-world full-stack application demonstrating the complete Client → Server → Database pipeline. Includes both a student-facing registration form and a live admin dashboard.
-
-**Student Panel:**
-- Registration form with client-side data validation
-- Submits data to backend via REST API (`fetch`)
-- Records persisted to MySQL database
-
-**Admin Dashboard:**
-- Live student records table (auto-refresh)
-- Search by name, email, or roll number
-- Delete student records
-- Export full database to CSV
-- Total student counter
-
-**REST API:**
-| Method | Endpoint | Description |
-|--------|----------|-------------|
-| `POST` | `/register` | Add a new student |
-| `GET` | `/users` | Retrieve all students |
-| `DELETE` | `/delete/:id` | Remove student by ID |
-
-```
-Stack: HTML/CSS/JS (Frontend) · Node.js + Express (Backend) · MySQL (DB)
-Architecture: 3-Tier — Presentation → Application → Data Layer
-Pattern: RESTful API with JSON data exchange
-```
-
----
-
-### 📊 Basic Social Dashboard
-> *Analytics-style social media dashboard UI*
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/Basic-Social-Dashboard)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-A clean, card-based social media analytics dashboard interface built with pure HTML & CSS — demonstrating layout, component design, and visual hierarchy.
-
----
-
-### 🐍 CODE Programs
-> *Python DSA & logic problems — my coding practice archive*
-
-[![Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/CODE-Programs)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-A growing collection of Python programs covering algorithms, data structures, and problem-solving exercises.
-
----
-
-## 📊 GitHub Stats
+### 🤖 AI Multi-Agent Application — *Google Gemini*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshkamisetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=6E40C9&icon_color=00D4FF" height="170" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkamisetty&layout=compact&theme=tokyonight&hide_border=true&langs_count=7&title_color=6E40C9" height="170" />
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yogeshkamisetty&repo=Ai-Agent-by-Google&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D4FF)](https://github.com/yogeshkamisetty/Ai-Agent-by-Google)
+
+</div>
+
+> Built with **Google AI Studio** · Powered by **Gemini API** · Deployed as a live React app
+
+**Architecture:**
+```
+  ┌─────────────────────────────────────────────────────────────┐
+  │                   Ai-Agent-by-Google                        │
+  │                                                             │
+  │   User Input                                                │
+  │       │                                                     │
+  │       ▼                                                     │
+  │   App.tsx  ◄──── index.tsx (entry) ◄──── index.html        │
+  │       │                                                     │
+  │       ├──── components/   ←  UI Layer (React Components)    │
+  │       │         └── Agent panels, Chat UI, Response view    │
+  │       │                                                     │
+  │       └──── services/     ←  AI Layer                       │
+  │                 └── Gemini API Client                       │
+  │                         │                                   │
+  │                         ▼                                   │
+  │                  ┌─────────────┐                            │
+  │                  │ Google      │  Multi-agent orchestration  │
+  │                  │ Gemini      │  Task decomposition         │
+  │                  │ Model       │  Response streaming         │
+  │                  └─────────────┘                            │
+  │                                                             │
+  │  Build: Vite  │  Types: types.ts  │  Config: tsconfig.json  │
+  └─────────────────────────────────────────────────────────────┘
+```
+
+**Stack:** `TypeScript 95%` · `React` · `Vite` · `Gemini API` · `HTML 5%`
+
+[![Live Demo](https://img.shields.io/badge/▶%20View%20Live%20Demo-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://ai.studio/apps/drive/1fKLHHPWL3F8JAXRGytOvdEB-J_2eghPR)
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/Ai-Agent-by-Google)
+
+---
+
+### 🎓 Student Registration System — *Full-Stack Web App*
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yogeshkamisetty&repo=student-registration&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D4FF)](https://github.com/yogeshkamisetty/student-registration)
+
+</div>
+
+> Complete **3-tier architecture** — Client → Server → Database — with REST API & Admin Dashboard
+
+**Architecture:**
+```
+  ┌───────────────────────────────────────────────────────────────┐
+  │               Student Registration System                     │
+  │                                                               │
+  │   TIER 1 — PRESENTATION LAYER                                 │
+  │   ┌────────────────────┐   ┌───────────────────────────────┐  │
+  │   │   index.html       │   │   admin.html                  │  │
+  │   │   Student Form     │   │   Admin Dashboard             │  │
+  │   │   ├── Name/Roll    │   │   ├── Live student table      │  │
+  │   │   ├── Contact Info │   │   ├── Search (name/email/roll)│  │
+  │   │   └── Dept/Course  │   │   ├── Delete records          │  │
+  │   └────────┬───────────┘   │   └── Export to CSV           │  │
+  │            │ fetch()       └──────────────┬────────────────┘  │
+  │            ▼                              │ fetch()            │
+  │   TIER 2 — APPLICATION LAYER             │                    │
+  │   ┌───────────────────────────────────────┴──────────────────┐│
+  │   │             server.js  (Node.js + Express.js)            ││
+  │   │   POST /register   →  Validate & insert student record   ││
+  │   │   GET  /users      →  Fetch all students from DB         ││
+  │   │   DELETE /delete/:id → Remove student by ID              ││
+  │   └───────────────────────────────────────┬──────────────────┘│
+  │                                           │ mysql2 driver      │
+  │   TIER 3 — DATA LAYER                     │                    │
+  │   ┌───────────────────────────────────────▼──────────────────┐│
+  │   │              MySQL  —  studentdb                         ││
+  │   │  students(id, roll, name, dob, mobile, email,            ││
+  │   │            gender, dept, course, city, address)          ││
+  │   └──────────────────────────────────────────────────────────┘│
+  └───────────────────────────────────────────────────────────────┘
+```
+
+**REST API Reference:**
+
+| Method | Endpoint | Body | Response |
+|--------|----------|------|----------|
+| `POST` | `/register` | `{ roll, name, email, ... }` | `201 Created` |
+| `GET` | `/users` | — | `[ { students } ]` |
+| `DELETE` | `/delete/:id` | — | `200 OK` |
+
+**Stack:** `HTML/CSS/JS` · `Node.js` · `Express.js` · `MySQL` · `REST API`
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/student-registration)
+
+---
+
+### 🔨 Online Auction System — *Multi-Page Web App*
+
+<div align="center">
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yogeshkamisetty&repo=Online-Auction-System&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=00D4FF)](https://github.com/yogeshkamisetty/Online-Auction-System)
+
+</div>
+
+> Full auction marketplace with **8 pages**, buy/sell flows, user auth & dashboard  ⭐ 2 Stars
+
+**Page Flow Architecture:**
+```
+  ┌────────────────────────────────────────────────────────────┐
+  │                  Online Auction System                     │
+  │                                                            │
+  │   [index.html]  ──────────────────────────────────────┐   │
+  │   Landing / Hero                                       │   │
+  │        │                                              │   │
+  │        ├─────────────────────────────────────────┐   │   │
+  │        ▼                                         ▼   ▼   │
+  │  [login.html]   [register.html]          [browse.html]   │
+  │  Existing User  New User Sign Up         Auction Listings│
+  │        │               │                      │          │
+  │        └───────┬───────┘                      │          │
+  │                ▼                              ▼          │
+  │         [dashboard.html]             [product.html]      │
+  │         User Overview                Item Detail & Bid   │
+  │                │                                         │
+  │        ┌───────┴──────────┐                              │
+  │        ▼                  ▼                              │
+  │  [sell.html]        [profile.html]                       │
+  │  List an Item       Manage Account                       │
+  │                                                          │
+  │  Shared: /css/   · /images/   · scripts.js               │
+  └──────────────────────────────────────────────────────────┘
+```
+
+**Stack:** `HTML5 52%` · `CSS3 32%` · `JavaScript 16%` | 8 pages · 13 commits
+
+[![View Code](https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty/Online-Auction-System)
+
+---
+
+### Other Projects
+
+<div align="center">
+
+| Project | Description | Stack | Repo |
+|---------|-------------|-------|------|
+| 📊 **Basic Social Dashboard** | Social media analytics UI with card-based layout | `HTML` `CSS` | [![GitHub](https://img.shields.io/badge/-Repo-161B22?style=flat&logo=github)](https://github.com/yogeshkamisetty/Basic-Social-Dashboard) |
+| 🐍 **CODE Programs** | Python DSA & algorithm practice archive | `Python` | [![GitHub](https://img.shields.io/badge/-Repo-161B22?style=flat&logo=github)](https://github.com/yogeshkamisetty/CODE-Programs) |
+| ⚙️ **GitHub Actions Skills** | Automated CI/CD workflow exercise | `YAML` `Actions` | [![GitHub](https://img.shields.io/badge/-Repo-161B22?style=flat&logo=github)](https://github.com/yogeshkamisetty/skills-hello-github-actions) |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yogeshkamisetty&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=A78BFA&icon_color=00D4FF&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshkamisetty&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&title_color=A78BFA&bg_color=0d1117" height="175"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshkamisetty&theme=tokyonight&hide_border=true&ring=6E40C9&fire=00D4FF&currStreakLabel=6E40C9" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshkamisetty&theme=tokyonight&hide_border=true&ring=A78BFA&fire=00D4FF&currStreakLabel=A78BFA&background=0d1117&stroke=A78BFA" height="170"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏅 Trophy Shelf
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yogeshkamisetty&theme=tokyonight&no-frame=true&margin-w=8&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=yogeshkamisetty&theme=tokyonight&no-frame=true&margin-w=10&column=6&title=Stars,Repositories,Commits,PullRequest,Issues,Reviews" />
 
 </div>
 
@@ -230,34 +271,48 @@ A growing collection of Python programs covering algorithms, data structures, an
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshkamisetty&theme=tokyo-night&hide_border=true&area=true&color=6E40C9&line=00D4FF&point=ffffff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogeshkamisetty&theme=tokyo-night&hide_border=true&area=true&color=A78BFA&line=00D4FF&point=ffffff&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🎯 Currently Working On
+## 🗺️ Developer Journey
 
-```text
-🔭  Deepening backend skills — APIs, auth, deployment
-🧠  Studying GenAI architectures — RAG, agents, prompt engineering
-📦  Improving project documentation & code quality
-🤝  Looking for internship opportunities in SDE / AI roles
+```
+  2024 ──────────────────────────────────────────────── 2025 → NOW
+  
+  [HTML/CSS]──►[JavaScript]──►[Python]──►[Node.js]──►[TypeScript]──►[GenAI]
+       │              │            │           │             │            │
+   Layouts      DOM/Events    Algorithms   REST APIs    React Apps   Gemini API
+   Styling       Fetch API    Data Structs  Express.js   Type Safety  Multi-Agent
+   Pages         Async/Await   CLI Tools    MySQL        Vite Build   AI Studio
+  
+  ◉ Frontend ──────────────► ◉ Backend ──────────────► ◉ AI/ML
+```
+
+---
+
+## 🎯 Currently
+
+```python
+current_focus = {
+    "deepening"   : ["System Design", "Auth & Security", "Cloud Deployment"],
+    "exploring"   : ["RAG Pipelines", "LangChain", "Prompt Engineering"],
+    "practicing"  : ["DSA in Python", "REST API Design Patterns"],
+    "seeking"     : "SDE / AI Internship Opportunities 🤝"
+}
 ```
 
 ---
 
 <div align="center">
 
-### 📬 Let's Connect
-
-I'm always open to collaborating on interesting projects, internships, or just a good tech conversation.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Let%27s%20Build%20Something%20Together&fontSize=20&fontColor=A78BFA&fontAlignY=65&animation=fadeIn" />
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yogesh-kamisetty1834/)
-[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty)
+[![GitHub Follow](https://img.shields.io/badge/Follow%20on%20GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yogeshkamisetty)
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6E40C9&height=100&section=footer" />
+*⭐ If you found this profile interesting, drop a star on a repo — it means a lot!*
 
 </div>
